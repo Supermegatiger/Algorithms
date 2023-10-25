@@ -2,5 +2,8 @@
 
 Для машины Тьюринга: https://programforyou.ru/calculators/turing-machine-emulator
 
-Для машины Маркова: https://cmcmsu.info/1course/alg.schema.nam.htm
-Так себе работает... лучше вот: https://yad-studio.github.io/
+Для машины Маркова:
+- lab4:  https://cmcmsu.info/1course/alg.schema.nam.htm
+- lab5:  https://yad-studio.github.io/
+
+Для машины Поста: https://kpolyakov.spb.ru/prog/post.htm
